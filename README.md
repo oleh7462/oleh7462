@@ -35,14 +35,14 @@ frameworks_libraries:
   ]
 cloud_services:
   [
-    "AWS(EC2, S3)"
+    "AWS(EC2, S3, SES, SNS, ...)"
     "Vercel",
     "Supabase",
     "Firebase",
     "Airtable",
   ]
   
-currently_learning: ["Docker, Kubernetes, and Angular"]
+currently_learning: ["AI/ML and Angular"]
 2025 Goals: ["Create 25+ Projects and learn at least 5 new Technologies."]
 ```
   
