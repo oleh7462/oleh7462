@@ -43,7 +43,7 @@ cloud_services:
   ]
   
 currently_learning: ["Docker, Kubernetes, and Angular"]
-2024 Goals: ["Create 25+ Projects and learn at least 5 new Technologies."]
+2025 Goals: ["Create 25+ Projects and learn at least 5 new Technologies."]
 ```
   
 ---  
