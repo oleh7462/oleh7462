@@ -41,6 +41,8 @@ cloud_services:
     "Supabase",
     "Firebase",
     "Airtable",
+    "CMS",
+    "Strapi"
   ]
   
 currently_learning: ["AI/ML and Angular"]
